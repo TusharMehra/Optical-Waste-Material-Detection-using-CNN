@@ -21,6 +21,6 @@ The exact procedure is as following:
 
 ![image](https://user-images.githubusercontent.com/53235310/135720208-042adf94-1156-456c-9286-e22c142d3e15.png)
 
-**Accuracy: **
+**Accuracy:**
 
 ![image](https://user-images.githubusercontent.com/53235310/135720262-12f0585f-f262-4a36-ab0a-c6c50ed1fe39.png)
