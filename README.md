@@ -7,6 +7,10 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/53235310/135720053-94ef4554-e62a-4d2b-8cbf-4b42b0698c9b.gif)
 A Convolutional Neural Network (CNN) has been used to classify images of plastic, glass, trash, paper, metal or cardboard with the fastai library (built on PyTorch). A dataset collected by Mindy Yang and Gary Thung has been used for the classification and training purpose.
 
+**Fast.ai Computer Vision flowchart:**
+![image](https://user-images.githubusercontent.com/53235310/153932827-a98111e7-7ba9-4458-9ccb-2022e7d01315.png)
+
+
 The exact procedure is as following:
 
 1. Download and extract the images
